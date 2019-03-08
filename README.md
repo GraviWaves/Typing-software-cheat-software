@@ -4,7 +4,7 @@ This is a screen capture application, created for complete the game "Keyboard Ju
 Keyboard Jump: https://www.typing.com/student/game/keyboard-jump
 
 This application was not created for take high score in the "Keyboard Jump" game. But it was create for fun.
-This code is slow and the code is not so efficient. But I coded it only for challenge myself to do something new.
+This code is slow and not so efficient. But I coded it only for challenge myself to do something new.
 
 For use this code:
 1) Run the code
